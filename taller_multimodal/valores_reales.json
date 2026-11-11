@@ -1,0 +1,23 @@
+{
+  "componente_mouse.jpg": {
+    "componente": "mouse",
+    "marca_o_texto_visible": "no visible",
+    "puertos_o_conectores": "no visible",
+    "estado_visible": "Usado y con manchas de suciedad",
+    "uso_probable": "Periferico gamer y de uso ofimatico"
+  },
+  "componente_teclado.jpg": {
+    "componente": "teclado mecanico",
+    "marca_o_texto_visible": "no visible",
+    "puertos_o_conectores": "no visible",
+    "estado_visible": "Usado con poco desgaste",
+    "uso_probable": "Entrada de texto y para jugar"
+  },
+  "componente_usb.jpg": {
+    "componente": "memoria USB",
+    "marca_o_texto_visible": "Kingston",
+    "puertos_o_conectores": "Un conector USB tipo A",
+    "estado_visible": "Buen estado con poco uso",
+    "uso_probable": "Almacenar y trasnferir data"
+  }
+}

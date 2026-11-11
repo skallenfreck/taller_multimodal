@@ -1,0 +1,23 @@
+{
+  "componente_mouse.jpg": {
+    "componente": "mouse",
+    "marca_o_texto_visible": "",
+    "puertos_o_conectores": "",
+    "estado_visible": "",
+    "uso_probable": ""
+  },
+  "componente_teclado.jpg": {
+    "componente": "teclado",
+    "marca_o_texto_visible": "",
+    "puertos_o_conectores": "",
+    "estado_visible": "",
+    "uso_probable": ""
+  },
+  "componente_usb.jpg": {
+    "componente": "memoria USB",
+    "marca_o_texto_visible": "",
+    "puertos_o_conectores": "",
+    "estado_visible": "",
+    "uso_probable": ""
+  }
+}
